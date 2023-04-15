@@ -39,3 +39,15 @@ Criar uma página nova. É fácil criar conteúdo no Confluence Cloud: basta cli
 
 Com o Confluence podemos criar templates personalizados, Criar Blogs, Criação de novos usuários e configuração de acessos,  Configurações de acesso da Atlassian, Adicionando Aplicativos, Integração do Jira com o Confluence, Implementando a integração
 
+## Vantagens de Integrar Jira com Confluence
+
+O Jira e o confluence apesar de serem todos da Atlassian, os dois tem funções diferentes, O jira é uma ferramenta de gestão de projetos, ele tem uma série de recursos para times que usam a metodologia agil(possuem 3 quadros correção de bug, kanban e scrum) enquanto o Confluence é utilizado para compartilhar grestão de conhecimento da equipe.
+
+Eu posso integrar o confluence ao jira e auxilia muito a equipe pois eu posso mencionar por exemplo numa tarefa uma documentação , integrar uma pagina, ata de reunião, e clicar diretamente no jira. Posso listar o status de execução do jira no confluence , ele sincroniza automaticamente.
+
+
+
+
+
+
+
