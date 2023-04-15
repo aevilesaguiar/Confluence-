@@ -30,33 +30,12 @@ Crie e digite o título para a Página;
 Crie e inclua o conteúdo que desejar.
 
 ##  Criação de Páginas
-6m
-Reproduzir
-12. Utilizando Páginas
-4m
-Reproduzir
-13. Criação de templates personalizados
-11m
-Reproduzir
-14. Criação do Blog
-5m
-Iniciar
-Teste 1: Blogs e Páginas
-Reproduzir
-15. Criação de novos usuários e configuração de acessos
-5m
-Reproduzir
-16. Configurações de acesso da Atlassian
-4m
-Reproduzir
-17. Adicionando Aplicativos
-5m
-Reproduzir
-18. Integração do Jira com o Confluence
-7m
-Reproduzir
-19. Implementando a integração
-8m
-Reproduzir
-20. Bônus
-1m
+
+![image](https://user-images.githubusercontent.com/52088444/232230532-04c425f9-30f9-4ffe-bb18-e3fc47ce51c5.png)
+
+omo criar uma nova página no Confluence?
+Image result for o que é uma página no confluence
+Criar uma página nova. É fácil criar conteúdo no Confluence Cloud: basta clicar em Criar e preencher a página com texto, tabelas, imagens e outros conteúdos. Ao contrário de um documento tradicional do Word, as páginas que você cria no Confluence são on-line.
+
+Com o Confluence podemos criar templates personalizados, Criar Blogs, Criação de novos usuários e configuração de acessos,  Configurações de acesso da Atlassian, Adicionando Aplicativos, Integração do Jira com o Confluence, Implementando a integração
+
